@@ -1,0 +1,8 @@
+[
+    {
+        "_id": "c9d42394-c1b8-4fb5-97ec-2d44f04ee59d",
+        "Subject": "Your payment is confirmed!",
+        "Content": "Hi, Your payment for the order ID {0} is confirmed. Your product will be prepared and sent soon.",
+        "Event": "PaymentAccepted"
+    }
+]
